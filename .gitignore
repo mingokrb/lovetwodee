@@ -1,5 +1,2 @@
-## GENERAL ##
-./ultrasecretfilethatisliterallynotusedanywhereinthisrepowhatsoeverbutimadeyouhaveastroketryingtoreadthis.secret
-
 ## GAMES ##
-./games/minesweeper/topbar.lua
+games/minesweeper/topbar.lua
